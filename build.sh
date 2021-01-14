@@ -1,0 +1,1 @@
+go build -o Ankr-gin-ERC721 ./cmd/api/main.go

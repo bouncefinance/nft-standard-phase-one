@@ -1,0 +1,5 @@
+.idea
+
+cert/*
+conf/config.json
+conf/*ini
